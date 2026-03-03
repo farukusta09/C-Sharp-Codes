@@ -1,6 +1,3 @@
-
-using System.Numerics;
-
 int hamburgerPrice;
 int cokePrice;
 int waterPrice;
