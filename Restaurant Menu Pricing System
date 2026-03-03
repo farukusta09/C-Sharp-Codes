@@ -15,9 +15,6 @@ friesPrice = 50;
 pizzaPrice = 100;
 lemonadePrice = 75;
 
-
-
-
 Console.WriteLine();
 Console.WriteLine("***** Restorant Menu Fıyatı *****");
 Console.WriteLine();
@@ -27,4 +24,4 @@ Console.WriteLine("Su: " + waterPrice);
 Console.WriteLine("Kızartma: " + friesPrice);
 Console.WriteLine("Pizza: " + pizzaPrice);
 Console.WriteLine("Limonata: " + lemonadePrice);
-*/
+
