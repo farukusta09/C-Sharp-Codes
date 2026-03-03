@@ -1,5 +1,3 @@
-using System.Formats.Tar;
-
 Console.WriteLine("**** Usta Hava Yolları ****");
 Console.WriteLine();
 
