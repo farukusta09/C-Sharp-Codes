@@ -1,0 +1,12 @@
+
+Console.Write("lütfen sayıyı giriniz...");
+int number = int.Parse(Console.ReadLine());
+
+if(number % 2 == 0)
+{
+    Console.WriteLine("sayı çifttir...");
+}
+else
+{
+    Console.WriteLine("sayı tektir...");
+}
